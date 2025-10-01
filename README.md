@@ -54,3 +54,15 @@ df.describe()
 
 # Filter by year
 df_2010s = df[df['Year'] > 2010]
+
+---
+
+## Screenshot
+
+Here’s a preview of the notebook in Colab:
+
+<img src="images/screenshot.png" width="700">
+
+---
+
+
