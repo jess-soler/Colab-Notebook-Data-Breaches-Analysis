@@ -1,5 +1,7 @@
 # Data Breaches Analysis Notebook
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dIB_vbxLAJvmovtQ-eXfhBk64GMwB5kV#scrollTo=-uuI_vttKpFq)
+
 This repository contains a **Google Colab notebook** for analyzing the dataset [Data Breaches: A Comprehensive List](https://www.kaggle.com/datasets/thedevastator/data-breaches-a-comprehensive-list) from Kaggle. The notebook automatically downloads the dataset using **KaggleHub** and loads it into **Pandas** for analysis.
 
 ---
