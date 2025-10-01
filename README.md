@@ -61,7 +61,9 @@ df_2010s = df[df['Year'] > 2010]
 
 Here’s a preview of the notebook in Colab:
 
-<img src="images/screenshot.png" width="700">
+<img src="images/Screenshot1.png" width="700">
+<img src="images/Screenshot2.png" width="700">
+<img src="images/Screenshot3.png" width="700">
 
 ---
 
